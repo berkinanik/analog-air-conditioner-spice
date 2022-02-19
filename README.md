@@ -408,4 +408,4 @@ specifications.
 > Temperature Sensors Datasheet_. Texas Instruments Symlink. Retrieved
 > February 10, 2022, from https://www.ti.com/lit/ds/symlink/lm35.pdf
 
-# Some parts of this markdown file is generated using [**Vertopal**](https://www.vertopal.com/) _PDF to MD Converter_.
+Some parts of this markdown file is generated using [**Vertopal**](https://www.vertopal.com/) _PDF to MD Converter_.
