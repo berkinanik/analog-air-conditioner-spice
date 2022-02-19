@@ -1,8 +1,6 @@
 # analog-air-conditioner-spice
 Analog Air Conditioner Design using LTSpice
 
-Following project report is generated using [**Vertopal**](https://www.vertopal.com/) _PDF to MD Converter_.
-
 # Project Report
 
 ### MIDDLE EAST TECHNICAL UNIVERSITY
@@ -409,3 +407,5 @@ specifications.
 > \[1\] Texas Instruments. (2017, December). _LM35 Precision Centigrade
 > Temperature Sensors Datasheet_. Texas Instruments Symlink. Retrieved
 > February 10, 2022, from https://www.ti.com/lit/ds/symlink/lm35.pdf
+
+# Some parts of this markdown file is generated using [**Vertopal**](https://www.vertopal.com/) _PDF to MD Converter_.
